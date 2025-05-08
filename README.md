@@ -1,5 +1,13 @@
 ## Hi there 👋
+I am a (2nd year) computer and cognitive science student at Te Herenga Waka (Victoria University of Wellington)
 
+Although I really only started programming properly this year (2025) as I changed to comp from biology and am an absolute novice. I know a bit of Java and thats it.. for now
+
+My goal is to learn to build user interactive projects and visual explorations so that I can freely create things that I enjoy.
+
+Part of my degree is focused on AI and i'm interested in what the future of Human - AI interaction will look like. I think my dream career would probably be HCI and figuring out novel ways for humans and AI to communicate, past just voice and text.
+
+email is b.d.doogue@gmail.com - but I dont expect to have anything worth looking at letalone contacting me about on here for another couple years.
 <!--
 **BenDoogue/BenDoogue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
